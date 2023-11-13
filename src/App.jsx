@@ -6,8 +6,8 @@ function App() {
 
   return (
     <div>
-      {/* <Login />
-      <Login2 /> */}
+      <Login />
+      <Login2 />
       <Login3 />
     </div>
   )

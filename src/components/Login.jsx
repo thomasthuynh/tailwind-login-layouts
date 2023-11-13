@@ -9,7 +9,7 @@ const Login = () => {
       </div>
 
       <div className="bg-gray-100 flex flex-col justify-center">
-        <form className="max-w-[360px] w-full mx-auto bg-white p-4">
+        <form className="max-w-[360px] w-full mx-auto bg-white p-8">
           <h2 className="text-4xl font-bold text-center py-6">BRAND.</h2>
 
           <div className="flex flex-col py-2">
@@ -23,7 +23,7 @@ const Login = () => {
           </div>
           <button className="border w-full my-5 py-2 bg-blue-600 text-white hover:bg-blue-500">Sign In</button>
 
-          <div className="flex justify-between">
+          <div className="flex justify-between pb-4">
             <p className="flex items-center"><input className="mr-1.5" type="checkbox" />Remember Me</p>
             <p>Create an account</p>
           </div>
